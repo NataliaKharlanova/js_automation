@@ -1,0 +1,9 @@
+{
+  "name":"string",
+  "age":"number",
+  "cars": {
+    "car1":"string",
+    "car2":"string",
+    "car3":"string"
+  }
+ }
